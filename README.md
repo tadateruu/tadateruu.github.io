@@ -1,2 +1,2 @@
 # tadateruu.github.io
-Graphic design is not my passion.
+Web extension of my resume for tech accomplishments. Graphic design is not my passion.
