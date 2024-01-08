@@ -13,8 +13,8 @@
 .box{
 	margin: 20px;
    padding:20px;
-   background-color: rgba(0,0,0,0.5);
-	border: 2px solid rgba(0,221,221,0.5);}
+   background-color: rgba(0,0,0,0.6);
+	border: 5px solid rgba(0,221,156,0.5);}
 body{
    background-image: url('untitled.png');
    background-repeat: no-repeat;
@@ -26,10 +26,10 @@ body{
 	color: rgba(255,255,255,1);
 	background-color:Black;}
 h1{
-    color: rgba(0,221,221,0.5);}
+    color: rgba(0,221,156,0.5);}
 h2{
-    color: rgba(0,221,221,0.5);}
+    color: rgba(0,221,156,0.5);}
 img{
-	border: 4px solid rgba(0,221,221,0.5);}
+	border: 4px solid rgba(0,221,156,0.5);}
 a{
     color: White;}
